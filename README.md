@@ -1,7 +1,5 @@
 # RandomPasswordGenerator
 
-#This program will generate a random password of 8 characters everytime it runs
-
 This program generates a random password satisfying the following conditions
 
 1. 2 uppercase letters from A to Z,
